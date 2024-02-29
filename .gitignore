@@ -6,14 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-# Ignore .env file
+#Secret
 .env
-
-# Ignore logs directory
-logs/
-
-# Ignore compiled Python files
-*.pyc
-
-# Ignore virtual environment directory
-venv/
